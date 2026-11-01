@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E9E,100:0A66C2&height=180&section=header&text=Shantanu%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%26%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%"/>
-
 **Information Science @ RVITM, Bengaluru · Open to Backend / Full Stack internships**
 
 I build and deploy real systems: RAG assistants, real-time multiplayer servers, and full-stack apps.
