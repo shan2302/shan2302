@@ -1,9 +1,11 @@
 <div align="center">
-     <h1>Hi, I'm Shantanu Singh 👋</h1>
-   <h3> Full Stack Developer & AI Engineer</h3>
-**Information Science @ RVITM, Bengaluru · Open to Backend / Full Stack internships**
 
-I build and deploy real systems: RAG assistants, real-time multiplayer servers, and full-stack apps.
+<h1>Hi, I'm Shantanu Singh 👋</h1>
+<h3>Full Stack Developer · Backend & AI</h3>
+
+<b>Information Science @ RVITM, Bengaluru · Open to Full Stack / Backend / AI internships</b>
+
+<p>I build and deploy real systems: RAG assistants, real-time multiplayer servers, and full-stack apps.</p>
 
 <a href="https://www.linkedin.com/in/shantanu-singh-3b48782ab/"><img src="https://img.shields.io/badge/LinkedIn-Shantanu%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:shantanu230205@gmail.com"><img src="https://img.shields.io/badge/Gmail-shantanu230205-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -16,7 +18,7 @@ I build and deploy real systems: RAG assistants, real-time multiplayer servers, 
 ## 👨‍💻 About Me
 
 - 🎓 Third-year B.E. in Information Science & Engineering at **RV Institute of Technology and Management** (CGPA 7.9)
-- 🔍 Looking for a **Backend / Full Stack internship**
+- 🔍 Looking for a **Full Stack / Backend / AI internship**
 - 🧱 I like backend design: authoritative servers, REST APIs, auth, and data modeling
 - 🌱 Exploring RAG, vector search, and scalable backend architecture
 
@@ -63,8 +65,8 @@ Predicts daily water demand from date, temperature, rainfall and occupancy using
 `React` `Vite` `Spring Boot` `Spring Data JPA` `MySQL`
 
 ### 💰 [Money Manager](https://github.com/shan2302/moneymanager): Personal Finance Tracker
-Full-stack app to track income and expenses with a Spring Boot REST backend, a web frontend, and Docker support. [Add one line on your best feature, e.g. category-wise summaries / JWT login / reports]
-`Java` `Spring Boot` `Maven` `Docker` `[database]` `[frontend framework]`
+Full-stack app to track income and expenses, with a Spring Boot REST backend, a web frontend, and Docker support.
+`Java` `Spring Boot` `Maven` `Docker`
 
 ### 🎓 [Student Fee Portal](https://github.com/shan2302/studentFeePortal)
 Go backend with REST APIs and CRUD for student fee records, payments and accounts, with routing and middleware on MongoDB.
@@ -74,6 +76,4 @@ Go backend with REST APIs and CRUD for student fee records, payments and account
 
 ## 📫 Let's Connect
 
-I'm open to **Backend, Full Stack and AI/ML internships**. Reach me on [LinkedIn](https://www.linkedin.com/in/shantanu-singh-3b48782ab/) or at **shantanu230205@gmail.com**.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E9E,100:0A66C2&height=100&section=footer" width="100%"/>
+I'm open to **Full Stack, Backend and AI/ML internships**. Reach me on [LinkedIn](https://www.linkedin.com/in/shantanu-singh-3b48782ab/) or at **shantanu230205@gmail.com**.
