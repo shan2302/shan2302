@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A66C2,100:1F4E9E&height=200&section=header&text=Shantanu%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20%26%20AI&descSize=18&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0%3A0A66C2%2C100%3A1F4E9E&section=header&reversal=false&text=Shantanu+Singh&textBg=false&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40&animation=twinkling&rotate=0&strokeWidth=0&desc=Full+Stack+Developer%7CBackend%7CAI+&descSize=18&descAlign=50&descAlignY=62" width="100%"/>
 
-<a href="https://github.com/shan2302">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Spring+Boot+%C2%B7+React+%C2%B7+Go;Building+RAG+%26+real-time+systems;Open+to+internships+%F0%9F%9A%80" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Spring+Boot+%C2%B7+React+%C2%B7+Go;Building+RAG+%26+real-time+systems;Open+to+internships" alt="Typing animation"/>
 
 <b>Information Science @ RVITM, Bengaluru · Open to Full Stack / Backend / AI internships</b>
 
@@ -65,4 +63,4 @@
 
 I'm open to **Full Stack, Backend and AI/ML internships**. Reach me on [LinkedIn](https://www.linkedin.com/in/shantanu-singh-3b48782ab/) or at **shantanu230205@gmail.com**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1F4E9E&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0%3A0A66C2%2C100%3A1F4E9E&section=footer" width="100%"/>
