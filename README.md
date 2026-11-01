@@ -1,69 +1,80 @@
-<h1 align="center">Hi, I'm Shantanu 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Backend & Full Stack Developer</b> · Information Science @ RVITM, Bengaluru<br>
-  I build and deploy real systems: RAG assistants, real-time multiplayer servers, and full-stack apps.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E9E,100:0A66C2&height=180&section=header&text=Shantanu%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%26%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shantanu-singh-3b48782ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:shantanu230205@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=for-the-badge">
-</p>
+**Information Science @ RVITM, Bengaluru · Open to Backend / Full Stack internships**
+
+I build and deploy real systems: RAG assistants, real-time multiplayer servers, and full-stack apps.
+
+<a href="https://www.linkedin.com/in/shantanu-singh-3b48782ab/"><img src="https://img.shields.io/badge/LinkedIn-Shantanu%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:shantanu230205@gmail.com"><img src="https://img.shields.io/badge/Gmail-shantanu230205-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/shan2302?tab=repositories"><img src="https://img.shields.io/badge/GitHub-shan2302-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</div>
 
 ---
 
-## 🎯 About Me
-- 🎓 Third-year B.E. in Information Science & Engineering
+## 👨‍💻 About Me
+
+- 🎓 Third-year B.E. in Information Science & Engineering at **RV Institute of Technology and Management** (CGPA 7.9)
 - 🔍 Looking for a **Backend / Full Stack internship**
-- 🛠️ Currently building: [what you're working on now]
-- 🌱 Exploring: RAG, vector search, and scalable backend design
+- 🧱 I like backend design: authoritative servers, REST APIs, auth, and data modeling
+- 🌱 Exploring RAG, vector search, and scalable backend architecture
 
 ---
 
 ## 🔧 Tech Stack
 
 **Languages**
-
+<br>
 <img src="https://skillicons.dev/icons?i=java,go,js,python,c" />
 
 **Backend**
-
+<br>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
 **Frontend**
-
+<br>
 <img src="https://skillicons.dev/icons?i=react,vite,html,css" />
 
 **Databases & Tools**
-
+<br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,maven,postman,vercel" />
 
-**AI:** RAG · Vector Search (PGVector) · LLM Integration · Whisper STT
+**AI / ML:** RAG · Vector Search (PGVector) · LLM Integration (Gemini, gpt-oss-120b) · Whisper Speech-to-Text
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| 🧾 **[CA Saathi](https://ca-saathi-two.vercel.app)** | Practice-management platform for Chartered Accountants: client tracking, document status, and automatic GST/TDS deadline alerts. **Live on Vercel.** | React, Node.js, MongoDB, JWT |
-| 🌾 **[Krishivaani AI](https://github.com/shan2302/Krishivaani-AI)** | Multilingual RAG assistant for farmers. Answers in Hindi, English and Kannada, with voice input. | Spring Boot, PGVector, Whisper, Gemini |
-| 🏹 **[Astram](https://github.com/Sid130698/Astram)** | Real-time 1v1 archery game with an authoritative server that prevents client tampering. | Spring Boot, WebSockets, Redis, PostgreSQL, Phaser.js |
-| 💧 **[Waterwise](https://github.com/shan2302/Waterwise)** | Predicts daily water demand with a regression model and gives conservation advice. | React, Spring Boot, MySQL |
-| 💰 **[Money Manager](https://github.com/shan2302/REPO-NAME)** | [One line: what it does, e.g. tracks income and expenses with monthly summaries] | [add stack] |
-| 🎓 **[Student Fee Portal](https://github.com/shan2302/studentFeePortal)** | REST backend for student fee records and payments, with routing and middleware. | Go, MongoDB |
+### 🧾 [CA Saathi](https://ca-saathi-two.vercel.app): Practice Management Platform · *Live*
+Manage clients, documents, and GST/TDS/Income Tax deadlines in one dashboard. Deadlines are auto-classified as Overdue, Due Soon, or Safe, with one-click email and SMS reminders.
+`React` `Node.js` `Express` `MongoDB Atlas` `JWT` `Brevo API` `Vercel`
 
----
+### 🌾 [Krishivaani AI](https://github.com/shan2302/Krishivaani-AI): Multilingual Agricultural Assistant
+RAG-based assistant that answers farmers' questions in **Hindi, English and Kannada**, with voice input. Responses are grounded in retrieved documents to reduce hallucinations.
+`Java` `Spring Boot` `PGVector` `Gemini` `gpt-oss-120b` `Whisper`
 
-## 📊 GitHub Stats
+### 🏹 [Astram](https://github.com/Sid130698/Astram): Real-Time 1v1 Archery Game *(Team Project)*
+Turn-based multiplayer game where an authoritative Spring Boot server owns all game state to prevent client tampering. Redis handles sessions and matchmaking; PostgreSQL stores player data and ranked tiers.
+`Spring Boot` `WebSockets (STOMP)` `Redis` `PostgreSQL` `Phaser.js`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shan2302&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan2302&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 💧 [Waterwise](https://github.com/shan2302/Waterwise): Water Demand Prediction
+Predicts daily water demand from date, temperature, rainfall and occupancy using an OLS regression model, with 6 REST endpoints and a React dashboard showing trends and conservation advice.
+`React` `Vite` `Spring Boot` `Spring Data JPA` `MySQL`
+
+### 💰 [Money Manager](https://github.com/shan2302/moneymanager): Personal Finance Tracker
+Full-stack app to track income and expenses with a Spring Boot REST backend, a web frontend, and Docker support. [Add one line on your best feature, e.g. category-wise summaries / JWT login / reports]
+`Java` `Spring Boot` `Maven` `Docker` `[database]` `[frontend framework]`
+
+### 🎓 [Student Fee Portal](https://github.com/shan2302/studentFeePortal)
+Go backend with REST APIs and CRUD for student fee records, payments and accounts, with routing and middleware on MongoDB.
+`Go` `MongoDB` `REST`
 
 ---
 
 ## 📫 Let's Connect
-I'm open to Backend, Full Stack and AI/ML internships. The fastest way to reach me is by [LinkedIn](https://www.linkedin.com/in/shantanu-singh-3b48782ab/) or email at **shantanu230205@gmail.com**.
+
+I'm open to **Backend, Full Stack and AI/ML internships**. Reach me on [LinkedIn](https://www.linkedin.com/in/shantanu-singh-3b48782ab/) or at **shantanu230205@gmail.com**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E9E,100:0A66C2&height=100&section=footer" width="100%"/>
