@@ -1,4 +1,6 @@
 <div align="center">
+     <h1>Hi, I'm Shantanu Singh 👋</h1>
+   <h3> Full Stack Developer & AI Engineer</h3>
 **Information Science @ RVITM, Bengaluru · Open to Backend / Full Stack internships**
 
 I build and deploy real systems: RAG assistants, real-time multiplayer servers, and full-stack apps.
